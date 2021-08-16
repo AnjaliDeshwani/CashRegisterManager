@@ -4,4 +4,4 @@ In this on entering the bill amount and cash given by the customer, user can kno
 
 >To take this quiz Click on the link given in About section.
 
-#### This is markSix Project of Neog levelzero  ####
+#### This is markTen Project of Neog levelzero  ####
