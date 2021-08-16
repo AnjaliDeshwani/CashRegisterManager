@@ -1,0 +1,55 @@
+:root {
+    --dark-grey: #6a6a90;
+    --off-white: #E5E7EB;
+    --dark-gold: #DAA520;
+}
+
+body {
+    background-image: url(images/money.jpg);
+}
+
+.cashGiven {
+    display: none;
+}
+
+.main-section {
+    background-color: var(--dark-gold);
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    border-radius: 0.5rem;
+    padding: 20px;
+}
+
+.main-section p {
+    color: var(--off-white);
+    font-size: large;
+    margin: 0 20px;
+}
+
+#next-btn {
+    margin: 4px;
+}
+
+#calc-btn {
+    display: block;
+    margin: 10px auto;
+}
+
+input {
+    width: 20rem;
+    padding: 4px 8px;
+    height: 30px;
+}
+
+button {
+    height: 30px;
+    padding: 2px 4px;
+    width: 5rem;
+}
+
+#cashTable table {
+    margin: auto;
+    width: 100%;
+    margin-top: 20px;
+}
